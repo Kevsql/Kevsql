@@ -1,4 +1,8 @@
-## Hi there 👋
+## Good vibes everybody ✌🏻️
+
+I'm a novice in QA Testing, but ready to collaborate and hunt those annoying bugs 🐞
+## Skills:
+![Python](https://img.shields.io/pypi/pyversions/:packageName)</br>
 
 <!--
 **Kevsql/Kevsql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
